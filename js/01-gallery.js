@@ -41,3 +41,4 @@ galleryItems.map((item) => {
 }
   })
 }
+
